@@ -6,7 +6,7 @@ sdfsdff
 sdf
 sfs
 df
-gvless://35744d0e-ff4c-4978-b820-418a1279be67@178.17.53.123:433?security=reality&sni=ok.ru&fp=chrome&pbk=p8fyIwmqJOsQA9g-Pr14p6pEzKkf-Hh0hHShJ4EFJDY&sid=729fcc5cba&spx=/&type=tcp&encryption=none#enadg6v6
+gvless://438446f6-c4c4-4950-81b1-a87b0cbaccfe@81.177.215.206:443?type=tcp&encryption=none&security=reality&pbk=SD6FM4cmybkgr7uO_FGzrbgEMG-3OMkJNEXegNsuWjw&fp=chrome&sni=m.ok.ru&sid=3f&spx=%2F&flow=xtls-rprx-vision-udp443#sinki-u3xzou5a
 sdfsdfs
 dfsd
 fsg
